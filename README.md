@@ -2,7 +2,7 @@
 
 ## About Me
 Hi, I'm **Akshita Gour**!  
-I am a **Cyber Security Analyst** passionate about **ethical hacking, automation, and cybersecurity training**.  
+I am a **Cyber Security Analyst** passionate about **ethical hacking, automation, and cybersecurity**.  
 
 ## What You'll Find Here 🔍
 - 🛡️ **Cybersecurity scripts & tools**  
